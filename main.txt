@@ -1,14 +1,35 @@
 Hello Gyus,
 Welcome to day 3 git tranning.
+hello mani here
+<<<<<<< HEAD
 <<<<<<< HEAD
 here i am doing somechange (suraj_mani)
 =======
+<<<<<<< HEAD
+Milan Added
+=======
+Harsh Added
+>>>>>>> 90ee911ed3fb2424340900a2be2239bf7b1d674e
+>>>>>>> 43423ed3ffb5a84e11c3f516223c01155e3ea1be
+=======
 
+<<<<<<< HEAD
+
+Harsh Added
+>>>>>>> 90ee911ed3fb2424340900a2be2239bf7b1d674e
+=======
 Sanket Verma
 Changes made by Sanket Verma
 
 Harsh Added
 Hello Everyone I am Suraj
 
+<<<<<<< HEAD
 
 >>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
+=======
+Hello, This is amol
+Updated by amol....;)
+>>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
+>>>>>>> 92fd4507d2b61e518d730da3329d1997fc1effe0
+>>>>>>> 43423ed3ffb5a84e11c3f516223c01155e3ea1be
