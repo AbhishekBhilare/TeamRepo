@@ -1,7 +1,17 @@
 Hello Gyus,
 Welcome to day 3 git tranning.
 
-Hello, This is amol
-Updated by amol
+<<<<<<< HEAD
+
 Harsh Added
 >>>>>>> 90ee911ed3fb2424340900a2be2239bf7b1d674e
+=======
+Sanket Verma
+Changes made by Sanket Verma
+
+Harsh Added
+Hello Everyone I am Suraj
+
+Hello, This is amol
+Updated by amol
+>>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
