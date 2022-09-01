@@ -1,3 +1,14 @@
 Hello Gyus,
 Welcome to day 3 git tranning.
+<<<<<<< HEAD
 Abhishek Added
+=======
+
+Sanket Verma
+Changes made by Sanket Verma
+
+Harsh Added
+Hello Everyone I am Suraj
+
+
+>>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
