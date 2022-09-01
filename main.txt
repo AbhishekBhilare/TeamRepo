@@ -3,7 +3,7 @@ Welcome to day 3 git tranning.
 hello mani here 4times
 
 PLEASE SURAJ EDIT HERE -----------------------------------------------------------------------------
-
+-----nosqwe
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
