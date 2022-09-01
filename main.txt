@@ -1,12 +1,6 @@
 Hello Gyus,
 Welcome to day 3 git tranning.
-<<<<<<< HEAD
-<<<<<<< HEAD
-Abhishek Added
-=======
-=======
-hello mani here 4times 
-hello abhishek here back
+hello mani here 4times
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -30,7 +24,6 @@ Harsh Added
 <<<<<<< HEAD
 
 Harsh Added
->>>>>>> d00beaa3e848a2992630ec97c454138b931dabf1
 
 Sanket Verma
 Changes made by Sanket Verma
@@ -44,9 +37,6 @@ Hello Everyone I am Suraj
 Aditya Jagtap
 Hi BOYZ hiuiiu
 
-<<<<<<< HEAD
->>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
-=======
 >>>>>>> 9cfb14c772ee0c335c2aff6370ff3872d2b8dea7
 
 >>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
@@ -58,6 +48,5 @@ Updated by amol....;)
 >>>>>>> 92fd4507d2b61e518d730da3329d1997fc1effe0
 >>>>>>> 43423ed3ffb5a84e11c3f516223c01155e3ea1be
 =======
-
+Guys, Please be on time.;)
 >>>>>>> 9cfb14c772ee0c335c2aff6370ff3872d2b8dea7
->>>>>>> d00beaa3e848a2992630ec97c454138b931dabf1
