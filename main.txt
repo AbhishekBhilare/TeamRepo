@@ -1,3 +1,7 @@
 Hello Gyus,
 Welcome to day 3 git tranning.
-Milan here
+<<<<<<< HEAD
+Milan heree
+=======
+Harsh Added
+>>>>>>> 90ee911ed3fb2424340900a2be2239bf7b1d674e
