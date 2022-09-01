@@ -1,2 +1,4 @@
 Hello Gyus,
 Welcome to day 3 git tranning.
+
+Hello, This is Amol.
