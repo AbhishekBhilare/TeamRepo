@@ -1,8 +1,17 @@
 Hello Gyus,
 Welcome to day 3 git tranning.
 <<<<<<< HEAD
+<<<<<<< HEAD
 we will learn about Merge Conflicts
 =======
+<<<<<<< HEAD
+Milan Added
+=======
+Harsh Added
+
+<<<<<<< HEAD
+
+Harsh Added
 
 Sanket Verma
 Changes made by Sanket Verma
@@ -10,8 +19,15 @@ Changes made by Sanket Verma
 Harsh Added
 Hello Everyone I am Suraj
 
+<<<<<<< HEAD
 Aditya Jagtap
 Hi BOYZ
 
 
 >>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
+=======
+Hello, This is amol
+Updated by amol...
+>>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
+>>>>>>> 92fd4507d2b61e518d730da3329d1997fc1effe0
+>>>>>>> b24e8951430ef79c95851bde4c1c2411e8695685
