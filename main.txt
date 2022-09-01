@@ -21,13 +21,11 @@ Hello Everyone I am Suraj
 
 <<<<<<< HEAD
 Aditya Jagtap
-Hi BOYZ
+Hi BOYZ hiuiiu
 
 
 >>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
 =======
 Hello, This is amol
-Updated by amol...
->>>>>>> b5a6f62736371de21d87fbfb64face6d07539c50
->>>>>>> 92fd4507d2b61e518d730da3329d1997fc1effe0
->>>>>>> b24e8951430ef79c95851bde4c1c2411e8695685
+Updated by amol....;)
+
